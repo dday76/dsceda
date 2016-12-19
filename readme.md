@@ -40,12 +40,12 @@ Coal emissions have been decreasing but eratic (plot shown).
 Deeper dive (not shown), Show Electric Generation is the main SCC.Level.Two contributor.
 Also, there are limited complete trends (1999-2008) for fips and Short.Name to work find 
 meaningful underlying trends.
-#4
+#5
 Q: How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?<br />
 A: Use plot 2 wih subset for motor vehicles; type="ON-ROAD".
 Motor Vehicles maps to type onroad, short name highway veh, and EI sector mobile - on road. Seems consistent with various data elements.
 The trend is down over the years, dropping from 350 in 1999 to 100 in 2008.
-#5
+#6
 Q: Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (𝚏𝚒𝚙𝚜 == "𝟶𝟼𝟶𝟹𝟽"). Which city has seen greater changes over time in motor vehicle emissions? Show 1999 & 2008 points for BC and LA with line.<br />
 Q: LA showed a greater total change than Baltimore, but on 1000s of PM2.5.
 Baltimore showed a similar change within its range but only on 10s of PM2.5.
